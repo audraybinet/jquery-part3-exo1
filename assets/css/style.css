@@ -1,0 +1,11 @@
+.card{
+  background-color: violet;
+  margin-top: 50px;
+}
+h3{
+  text-align: center;
+  border: 2px solid violet;
+}
+#result{
+  text-align: center;
+}
